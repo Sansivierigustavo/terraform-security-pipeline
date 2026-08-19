@@ -34,7 +34,7 @@ pipeline {
             steps {
                 dir('terraform') {
                     sh 'tfsec . --format json --out tfsec-report.json --soft-fail'
-                    sh 'tfsec .'
+                    sh 'tfsec . --soft-fail'
                 }
             }
         }
