@@ -61,4 +61,4 @@ terraform plan
 
 ## Autor
 
-Gustavo Cuebra — [https://www.linkedin.com/in/gustavosansivieri/](#) | [https://github.com/Sansivierigustavo](#)
+Gustavo Sansivieri — [https://www.linkedin.com/in/gustavosansivieri/](#) | [https://github.com/Sansivierigustavo](#)
